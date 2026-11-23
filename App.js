@@ -885,6 +885,7 @@ export default function App() {
                     </Text>
                   </View>
                 </Pressable>
+                //a
               ))
             )}
           </View>
